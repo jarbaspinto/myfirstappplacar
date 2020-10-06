@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">My App Futebol Placar</string>
     <string name="inserir_tempo">00:00</string>
+    <string name="tituloFutebolJogo">Futebol Placar</string>
+
+
+    <string name="faltas">Faltas</string>
+    <string name="gols">Gols</string>
+    <string name="tempoHint">00:00</string>
+    <string name="inicioPlacar"> 0 </string>
+
 </resources>
