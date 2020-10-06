@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Toast.makeText(getApplicationContext(),"Começou a Partida!", Toast.LENGTH_LONG).show();
 
+
                 String time1 = mEditTextTime1.getText().toString();
                 String time2 = mEditTextTime2.getText().toString();
                 double cEditTextTempo = Double.parseDouble(mEditTextTempo.getText().toString());

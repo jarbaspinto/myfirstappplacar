@@ -33,6 +33,7 @@ public class FutebolJogoActivity extends AppCompatActivity {
     private int contaFalta1 = 0;
     private int contaFalta2 = 0;
 
+
     private long mComecaTempo;
 
     private CountDownTimer tempoRecebido;

@@ -150,8 +150,10 @@
         android:layout_height="141dp"
         app:layout_constraintBottom_toBottomOf="@+id/buttonComecar"
         app:layout_constraintEnd_toEndOf="@+id/imageView2"
+        app:layout_constraintHorizontal_bias="0.833"
         app:layout_constraintStart_toEndOf="@+id/buttonComecar"
         app:layout_constraintTop_toTopOf="@+id/editTextTempo"
+        app:layout_constraintVertical_bias="0.368"
         app:srcCompat="@drawable/insiratempo" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
